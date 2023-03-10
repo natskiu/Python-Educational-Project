@@ -5,4 +5,4 @@ An education project led by Dr Giuseppe Mallia at the Department of Chemistry at
 
 ## Analysis
 
-## 
+## Exercises
